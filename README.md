@@ -4,7 +4,7 @@ Detects what season the user is currently experiencing in the real world and sho
 
 ## Demo
 
-![](https://media.giphy.com/media/tK0GGRcyYppPSHORLS/giphy.gif)
+![](https://media.giphy.com/media/t60kWX6RPRqucUPkGp/giphy.gif)
 
 ## Built with
 
