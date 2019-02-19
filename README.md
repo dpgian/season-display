@@ -8,7 +8,7 @@ Detects what season the user is currently experiencing in the real world and sho
 
 ## Built with
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
+* [ReactJS](https://reactjs.org/) - The web framework used
 
 ## Available Scripts
 
