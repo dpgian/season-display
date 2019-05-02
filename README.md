@@ -4,8 +4,8 @@ Detects what season the user is currently experiencing in the real world and sho
 
 ## Demo
 
+* [Live_Demo](https://season-display.netlify.com/)
 ![](https://media.giphy.com/media/t60kWX6RPRqucUPkGp/giphy.gif)
-![Live_Demo](https://season-display.netlify.com/)
 
 ## Built with
 
